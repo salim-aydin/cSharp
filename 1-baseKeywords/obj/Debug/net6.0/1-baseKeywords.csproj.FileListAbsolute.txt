@@ -1,0 +1,14 @@
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\1-baseKeywords\bin\Debug\net6.0\1-baseKeywords.exe
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\1-baseKeywords\bin\Debug\net6.0\1-baseKeywords.deps.json
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\1-baseKeywords\bin\Debug\net6.0\1-baseKeywords.runtimeconfig.json
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\1-baseKeywords\bin\Debug\net6.0\1-baseKeywords.dll
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\1-baseKeywords\bin\Debug\net6.0\1-baseKeywords.pdb
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\1-baseKeywords\obj\Debug\net6.0\1-baseKeywords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\1-baseKeywords\obj\Debug\net6.0\1-baseKeywords.AssemblyInfoInputs.cache
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\1-baseKeywords\obj\Debug\net6.0\1-baseKeywords.AssemblyInfo.cs
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\1-baseKeywords\obj\Debug\net6.0\1-baseKeywords.csproj.CoreCompileInputs.cache
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\1-baseKeywords\obj\Debug\net6.0\1-baseKeywords.dll
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\1-baseKeywords\obj\Debug\net6.0\refint\1-baseKeywords.dll
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\1-baseKeywords\obj\Debug\net6.0\1-baseKeywords.pdb
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\1-baseKeywords\obj\Debug\net6.0\1-baseKeywords.genruntimeconfig.cache
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\1-baseKeywords\obj\Debug\net6.0\ref\1-baseKeywords.dll

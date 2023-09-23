@@ -1,0 +1,14 @@
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\3-baseCalledParameterConstructorr\bin\Debug\net6.0\3-baseCalledParameterConstructorr.exe
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\3-baseCalledParameterConstructorr\bin\Debug\net6.0\3-baseCalledParameterConstructorr.deps.json
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\3-baseCalledParameterConstructorr\bin\Debug\net6.0\3-baseCalledParameterConstructorr.runtimeconfig.json
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\3-baseCalledParameterConstructorr\bin\Debug\net6.0\3-baseCalledParameterConstructorr.dll
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\3-baseCalledParameterConstructorr\bin\Debug\net6.0\3-baseCalledParameterConstructorr.pdb
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\3-baseCalledParameterConstructorr\obj\Debug\net6.0\3-baseCalledParameterConstructorr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\3-baseCalledParameterConstructorr\obj\Debug\net6.0\3-baseCalledParameterConstructorr.AssemblyInfoInputs.cache
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\3-baseCalledParameterConstructorr\obj\Debug\net6.0\3-baseCalledParameterConstructorr.AssemblyInfo.cs
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\3-baseCalledParameterConstructorr\obj\Debug\net6.0\3-baseCalledParameterConstructorr.csproj.CoreCompileInputs.cache
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\3-baseCalledParameterConstructorr\obj\Debug\net6.0\3-baseCalledParameterConstructorr.dll
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\3-baseCalledParameterConstructorr\obj\Debug\net6.0\refint\3-baseCalledParameterConstructorr.dll
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\3-baseCalledParameterConstructorr\obj\Debug\net6.0\3-baseCalledParameterConstructorr.pdb
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\3-baseCalledParameterConstructorr\obj\Debug\net6.0\3-baseCalledParameterConstructorr.genruntimeconfig.cache
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\3-baseCalledParameterConstructorr\obj\Debug\net6.0\ref\3-baseCalledParameterConstructorr.dll

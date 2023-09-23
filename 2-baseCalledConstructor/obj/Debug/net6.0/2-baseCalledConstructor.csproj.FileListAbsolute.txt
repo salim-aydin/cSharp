@@ -1,0 +1,14 @@
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\2-baseCalledConstructor\bin\Debug\net6.0\2-baseCalledConstructor.exe
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\2-baseCalledConstructor\bin\Debug\net6.0\2-baseCalledConstructor.deps.json
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\2-baseCalledConstructor\bin\Debug\net6.0\2-baseCalledConstructor.runtimeconfig.json
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\2-baseCalledConstructor\bin\Debug\net6.0\2-baseCalledConstructor.dll
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\2-baseCalledConstructor\bin\Debug\net6.0\2-baseCalledConstructor.pdb
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\2-baseCalledConstructor\obj\Debug\net6.0\2-baseCalledConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\2-baseCalledConstructor\obj\Debug\net6.0\2-baseCalledConstructor.AssemblyInfoInputs.cache
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\2-baseCalledConstructor\obj\Debug\net6.0\2-baseCalledConstructor.AssemblyInfo.cs
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\2-baseCalledConstructor\obj\Debug\net6.0\2-baseCalledConstructor.csproj.CoreCompileInputs.cache
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\2-baseCalledConstructor\obj\Debug\net6.0\2-baseCalledConstructor.dll
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\2-baseCalledConstructor\obj\Debug\net6.0\refint\2-baseCalledConstructor.dll
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\2-baseCalledConstructor\obj\Debug\net6.0\2-baseCalledConstructor.pdb
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\2-baseCalledConstructor\obj\Debug\net6.0\2-baseCalledConstructor.genruntimeconfig.cache
+C:\Users\salim\OneDrive\Desktop\cSharpLessons\Dersler\2-baseCalledConstructor\obj\Debug\net6.0\ref\2-baseCalledConstructor.dll
